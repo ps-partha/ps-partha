@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm partha sarker</h1>
 <h3 align="center">A passionate developer from bangladesh</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ps-partha&label=Profile%20views&color=0e75b6&style=flat" alt="ps-partha" /> </p>
 <a href="https://ibb.co/d5DGpwK"><img src="https://i.ibb.co/JsH5pwk/programmer-still-2x.gif" alt="programmer-still-2x" border="0" align="right" height="250px" width="350px"></a>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ps-partha" alt="ps-partha" /></a> </p>
 
 - 🔭 I’m currently working on **my personal project.**
 
